@@ -9,3 +9,4 @@ for x in range(0, t):
         import itertools
         for permutation in itertools.permutations(a):
             print (permutation);
+    m = int(input("Enter the M for this test case:"));
